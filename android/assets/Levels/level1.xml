@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<Level>
+<Wave id="1">
+    <Enemy type="Speerman">10</Enemy>
+</Wave>
+<Wave id="2">
+    <Enemy type="Speerman">11</Enemy>
+</Wave>
+<Wave id="3">
+    <Enemy type="Speerman">12</Enemy>
+</Wave>
+<Wave id="4">
+    <Enemy type="Speerman">13</Enemy>
+</Wave>
+<Wave id="5">
+    <Enemy type="Speerman">14</Enemy>
+</Wave>
+<Wave id="9">
+    <Enemy type="Speerman">18</Enemy>
+</Wave>
+<Wave id="10">
+    <Enemy type="Speerman">19</Enemy>
+</Wave>
+</Level>
